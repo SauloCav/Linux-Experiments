@@ -3,6 +3,9 @@
 
 ## Linux Commands
 
+### man
+It displays the manual page of any other command (as long as it has one).
+
 ### pwd
 Use the pwd command to find out the path of the current working directory (folder) you’re in.
 
@@ -21,11 +24,27 @@ Use the cp command to copy files from the current directory to a different direc
 ### mv
 The primary use of the mv command is to move files, although it can also be used to rename files.
 
+### rm
+Used to remove files and directories. 
+
+### alias
+The alias command lets you define temporary aliases in your shell session. When creating an alias, you instruct your shell to replace a word with a series of commands.
+
+### mkdir
+Used to create folders in the shell.
+
+### exit
+With it, you can end a shell session and, in most cases, automatically close the terminal you’re using.
+
+
 
 ## LInks
 
 ### Git
 https://github.com/git-guides/install-git
+
+### Akita ubuntu
+https://www.youtube.com/watch?v=epiyExCyb2s&list=WL&index=5&ab_channel=FabioAkita
 
 ### Dotfiles
 https://github.com/skwp/dotfiles
@@ -38,3 +57,9 @@ https://github.com/asdf-vm/asdf
 
 ### Materia
 https://github.com/nana-4/materia-theme
+
+### Terminal Theme - zsh
+https://www.youtube.com/watch?v=PZTLIVQxxEY&ab_channel=MuhammadbinYusrat
+
+## 20 Things You MUST DO After Installing Ubuntu
+https://www.youtube.com/watch?v=GrI5c9PXS5k&ab_channel=LinuxTex
