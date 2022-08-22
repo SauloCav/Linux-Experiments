@@ -45,6 +45,10 @@ https://www.youtube.com/watch?v=epiyExCyb2s&list=WL&index=5&ab_channel=FabioAkit
 ### 20 Things You MUST DO After Installing Ubuntu
 https://www.youtube.com/watch?v=GrI5c9PXS5k&ab_channel=LinuxTex
 
+### Ubuntu 22.04 Customization
+https://www.youtube.com/watch?v=lXIb-1_H-mA&ab_channel=LinuxScoop
+https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
+https://www.youtube.com/watch?v=0Z06UjpppNQ&ab_channel=FamTam
 
 ## LInks
 
