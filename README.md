@@ -37,14 +37,19 @@ Used to create folders in the shell.
 With it, you can end a shell session and, in most cases, automatically close the terminal you’re using.
 
 
+## Videos
+
+### Akita ubuntu
+https://www.youtube.com/watch?v=epiyExCyb2s&list=WL&index=5&ab_channel=FabioAkita
+
+### 20 Things You MUST DO After Installing Ubuntu
+https://www.youtube.com/watch?v=GrI5c9PXS5k&ab_channel=LinuxTex
+
 
 ## LInks
 
 ### Git
 https://github.com/git-guides/install-git
-
-### Akita ubuntu
-https://www.youtube.com/watch?v=epiyExCyb2s&list=WL&index=5&ab_channel=FabioAkita
 
 ### Dotfiles
 https://github.com/skwp/dotfiles
@@ -60,6 +65,3 @@ https://github.com/nana-4/materia-theme
 
 ### Terminal Theme - zsh
 https://www.youtube.com/watch?v=PZTLIVQxxEY&ab_channel=MuhammadbinYusrat
-
-## 20 Things You MUST DO After Installing Ubuntu
-https://www.youtube.com/watch?v=GrI5c9PXS5k&ab_channel=LinuxTex
