@@ -58,8 +58,9 @@ https://www.youtube.com/watch?v=oR8v9uOCq0E&ab_channel=TheLinuxCast
 ### https://www.youtube.com/watch?v=SVh4osULjP4&ab_channel=DanielLaera
 
 ### Ubuntu 22.04 Customization
-https://www.youtube.com/watch?v=lXIb-1_H-mA&ab_channel=LinuxScoop
 https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
+
+### How to customize Ubuntu 22.04 with conky widgets
 https://www.youtube.com/watch?v=0Z06UjpppNQ&ab_channel=FamTam
 
 ## LInks
