@@ -45,6 +45,18 @@ https://www.youtube.com/watch?v=epiyExCyb2s&list=WL&index=5&ab_channel=FabioAkit
 ### 20 Things You MUST DO After Installing Ubuntu
 https://www.youtube.com/watch?v=GrI5c9PXS5k&ab_channel=LinuxTex
 
+### Terminal Theme - zsh
+https://www.youtube.com/watch?v=PZTLIVQxxEY&ab_channel=MuhammadbinYusrat
+
+### TUTORIAL | Configurando o PowerLevel10k
+https://www.youtube.com/watch?v=Bwwda5QLwHg&t=138s&ab_channel=OPinguimCriativo
+
+### Customize Your ZSH Prompt with Powerlevel10k
+https://www.youtube.com/watch?v=oR8v9uOCq0E&ab_channel=TheLinuxCast
+
+### OH MY ZSH Tutorial - Bring Your Terminal To Another Level
+### https://www.youtube.com/watch?v=SVh4osULjP4&ab_channel=DanielLaera
+
 ### Ubuntu 22.04 Customization
 https://www.youtube.com/watch?v=lXIb-1_H-mA&ab_channel=LinuxScoop
 https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
@@ -67,5 +79,5 @@ https://github.com/asdf-vm/asdf
 ### Materia
 https://github.com/nana-4/materia-theme
 
-### Terminal Theme - zsh
-https://www.youtube.com/watch?v=PZTLIVQxxEY&ab_channel=MuhammadbinYusrat
+### Power Level 10k
+https://github.com/romkatv/powerlevel10k
