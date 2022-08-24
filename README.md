@@ -82,3 +82,6 @@ https://github.com/nana-4/materia-theme
 
 ### Power Level 10k
 https://github.com/romkatv/powerlevel10k
+
+### 11 Best GTK Themes for Ubuntu
+https://www.omgubuntu.co.uk/2017/11/best-gtk-themes-for-ubuntu
