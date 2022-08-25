@@ -15,9 +15,6 @@ https://www.youtube.com/watch?v=Bwwda5QLwHg&t=138s&ab_channel=OPinguimCriativo
 ### Customize Your ZSH Prompt with Powerlevel10k
 https://www.youtube.com/watch?v=oR8v9uOCq0E&ab_channel=TheLinuxCast
 
-### OH MY ZSH Tutorial - Bring Your Terminal To Another Level
-### https://www.youtube.com/watch?v=SVh4osULjP4&ab_channel=DanielLaera
-
 ### Ubuntu 22.04 Customization
 https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
 
