@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
 
 ### How to customize Ubuntu 22.04 with conky widgets
 https://www.youtube.com/watch?v=0Z06UjpppNQ&ab_channel=FamTam
+
+### Ubuntu OTIMIZADO
+https://www.youtube.com/watch?v=LthtzNow_6I&ab_channel=Diolinux
