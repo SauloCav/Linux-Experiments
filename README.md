@@ -1,7 +1,7 @@
 # Linux-Experiments
 
 
-## Linux Commands
+## Terminal Commands
 
 ### man
 It displays the manual page of any other command (as long as it has one).
@@ -35,3 +35,6 @@ Used to create folders in the shell.
 
 ### exit
 With it, you can end a shell session and, in most cases, automatically close the terminal you’re using.
+
+### diff
+Short for difference, the diff command compares the contents of two files line by line.
