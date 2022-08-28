@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=PO_1i_Uh9As&ab_channel=LinuxScoop
 
 ### Ubuntu OTIMIZADO
 https://www.youtube.com/watch?v=LthtzNow_6I&ab_channel=Diolinux
+
+### Falando um pouco de MAC, LINUX e WINDOWS
+https://www.youtube.com/watch?v=brIQSA8FtDo&t=97s&ab_channel=FabioAkita
