@@ -38,3 +38,15 @@ With it, you can end a shell session and, in most cases, automatically close the
 
 ### diff
 Short for difference, the diff command compares the contents of two files line by line.
+
+### jobs
+jobs command will display all current jobs along with their statuses. A job is basically a process that is started by the shell.
+
+### kill
+If you have an unresponsive program, you can terminate it manually by using the kill command.
+
+### history
+Running history command is particularly useful if you want to review the commands you’ve entered before.
+
+### echo
+This command is used to move some data into a file.
