@@ -50,3 +50,13 @@ Running history command is particularly useful if you want to review the command
 
 ### echo
 This command is used to move some data into a file.
+
+
+## ASDF
+https://asdf-vm.com/guide/getting-started.html
+
+### RUBY
+https://github.com/asdf-vm/asdf-ruby
+
+### NODE
+https://github.com/asdf-vm/asdf-nodejs
