@@ -60,3 +60,12 @@ https://github.com/asdf-vm/asdf-ruby
 
 ### NODE
 https://github.com/asdf-vm/asdf-nodejs
+
+### PYTHON
+https://github.com/asdf-community/asdf-python
+
+### JAVA
+https://github.com/halcyon/asdf-java
+
+### PHP
+https://github.com/asdf-community/asdf-php
